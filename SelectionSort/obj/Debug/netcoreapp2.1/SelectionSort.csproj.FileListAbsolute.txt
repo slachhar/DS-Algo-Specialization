@@ -1,0 +1,11 @@
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.deps.json
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.json
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.dev.json
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.dll
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.pdb
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csprojAssemblyReference.cache
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfoInputs.cache
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfo.cs
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.dll
+D:\Coursera\DataStructures&AlgorithmsNew\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.pdb
